@@ -11,6 +11,6 @@ Contains:
   - python notebook for creating a database (create_database.ipynb)
   - python notebook for checking database contents (database_contents.ipynb)
 
-Possible extensions would be making the code work on a cloud, creating a crane which would run the update_availability and sendmails commands or editing the form.
+Possible extensions would be making the code work on a cloud, creating a cron which would run the update_availability and sendmails commands or editing the form.
 
 
